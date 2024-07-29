@@ -501,7 +501,7 @@
                     },
 {"name": "WebServer/examples/AdvancedWebServer",
                     "sizes": [{
-                            "flash_bytes": 977437,
+                            "flash_bytes": 977429,
                             "flash_percentage": 31,
                             "ram_bytes": 47272,
                             "ram_percentage": 14

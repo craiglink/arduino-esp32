@@ -573,7 +573,7 @@
                     },
 {"name": "SD/examples/SD_time",
                     "sizes": [{
-                            "flash_bytes": 971333,
+                            "flash_bytes": 971325,
                             "flash_percentage": 30,
                             "ram_bytes": 45556,
                             "ram_percentage": 13
